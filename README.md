@@ -1,5 +1,5 @@
 ﻿# Bet Guessing Game
-An bet guessing game using C# with encryption account feature (like TODO App repo lol)
+An bet guessing game using C# with encryption account feature (like TODO App repo lol), i make this for fun
 
 Required: Installed Microsoft .NET Framework (which is C#)
 # How to play
@@ -28,3 +28,4 @@ Step 2: Choose different options after get 100 points (Only number)<br>
   - The game gives you a hint (“The number is bigger/smaller than your guess.”)
   - Attempts will not reset
 <img width="422" height="193" alt="lose" src="https://github.com/user-attachments/assets/3d395953-ee8e-4982-b6bd-6ddb70634d53" />
+
